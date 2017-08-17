@@ -1,0 +1,6 @@
+# PhpStorm
+.idea
+
+# General files
+*~
+*.DS_STORE
